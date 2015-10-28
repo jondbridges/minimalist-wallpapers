@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+#wallpapers > img {
+  display: block;
+  float: left;
+  height: 50vh;
+  object-fit: cover;
+  width: 50vw;
+}

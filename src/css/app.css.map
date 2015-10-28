@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACE,UAAU;CACX;;AAED;EACE,eAAe;EACf,YAAY;EACZ,aAAa;EACb,qBAAkB;KAAlB,kBAAkB;EAClB,YAAY;CACb","file":"app.css","sourcesContent":["body {\n  margin: 0;\n}\n\n#wallpapers > img {\n  display: block;\n  float: left;\n  height: 50vh;\n  object-fit: cover;\n  width: 50vw;\n}\n"],"sourceRoot":"/source/"}

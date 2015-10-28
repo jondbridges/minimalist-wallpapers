@@ -1,0 +1,8 @@
+dist/
+docs/
+gulp/
+src/config.js
+src/lib/
+gulpfile.js
+karma.conf.js
+package.json

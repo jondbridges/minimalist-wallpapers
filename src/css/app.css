@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+#wallpapers > img {
+  display: block;
+  float: left;
+  height: 50vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 50vw;
+}
+
+/*# sourceMappingURL=app.css.map */
